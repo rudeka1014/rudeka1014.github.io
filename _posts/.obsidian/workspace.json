@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "22f378210d53c877",
+        "id": "e549c569106b6c97",
         "type": "tabs",
         "children": [
           {
-            "id": "8698013da2c7dde9",
+            "id": "86f33abce7d7e4ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-31-TEST.md",
+                "file": "2024-03-31-BlockBench 01.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "82aa7ce135ea9441",
+            "id": "c743a86bd8d46172",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-31-TEST.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7730e252bafccc06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-03-31-TEST.md",
+                "file": "2024-03-31-BlockBench 02.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:모델링",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-31-TEST.md",
+                "file": "2024-03-31-BlockBench 02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-31-TEST.md",
+                "file": "2024-03-31-BlockBench 02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-31-TEST.md"
+                "file": "2024-03-31-BlockBench 02.md"
               }
             }
           }
@@ -171,11 +160,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7730e252bafccc06",
+  "active": "c743a86bd8d46172",
   "lastOpenFiles": [
+    "2024-03-31-BlockBench 01.md",
+    "2024-03-31-BlockBench.md",
+    "2024-03-31-BlockBench 02.md",
+    "2024-03-31-BlockBench z.md",
+    "2024-03-31-ResourcePack 01.md",
+    "templates",
     "MD.md",
-    "template.md",
-    "2024-03-31-TEST.md",
+    "templates/template.md",
     "images",
     "Template.md"
   ]
