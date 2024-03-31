@@ -16,7 +16,7 @@ timezone:
 
 title: JDK # the main title
 
-tagline: JDK's PixelArt & BlockBench # it will display as the sub-title
+tagline: JDK's PixelArt & BlockBench   픽셀아트 & 블럭벤치 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Typical description
@@ -31,7 +31,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: JaakDek (Rudeka)
+  name: JaakDeque (Rudeka)
   email: rudeka0514@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -47,7 +47,7 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: G-6Q9JD2HLS1
 
 goatcounter:
   id: # fill in your Goatcounter ID
