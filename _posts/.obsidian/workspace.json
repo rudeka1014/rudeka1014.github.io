@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e549c569106b6c97",
+        "id": "d7804a8f4e546714",
         "type": "tabs",
         "children": [
           {
-            "id": "86f33abce7d7e4ba",
+            "id": "186e00b93527eaaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-31-BlockBench 01.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c743a86bd8d46172",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-03-31-BlockBench 02.md",
+                "file": "2024-03-31-BlockBench z.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:모델링",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-31-BlockBench 02.md",
+                "file": "2024-03-31-BlockBench z.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-31-BlockBench 02.md",
+                "file": "2024-03-31-BlockBench z.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-31-BlockBench 02.md"
+                "file": "2024-03-31-BlockBench z.md"
               }
             }
           }
@@ -160,16 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c743a86bd8d46172",
+  "active": "186e00b93527eaaf",
   "lastOpenFiles": [
     "2024-03-31-BlockBench 01.md",
-    "2024-03-31-BlockBench.md",
     "2024-03-31-BlockBench 02.md",
-    "2024-03-31-BlockBench z.md",
+    "2024-03-31-Blog.md",
+    "templates/template.md",
     "2024-03-31-ResourcePack 01.md",
+    "2024-03-31-BlockBench.md",
+    "2024-03-31-BlockBench z.md",
     "templates",
     "MD.md",
-    "templates/template.md",
     "images",
     "Template.md"
   ]
