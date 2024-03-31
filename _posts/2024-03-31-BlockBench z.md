@@ -12,7 +12,7 @@ tags:
 ### 디스코드
 블럭벤치를 다루는 활동적인 디스코드는 제가 아는 곳은 2가지가 있습니다. 
 - [Pixel Creator's Place](https://discord.gg/pQjME4Y) (한국어)
-- `[BlockBench 공식 디스코드](http://discord.blockbench.net/)`
+- [BlockBench 공식 디스코드](http://discord.blockbench.net/)
 
 ### 웹
 - [블럭벤치 공식 사이트](https://www.blockbench.net)
