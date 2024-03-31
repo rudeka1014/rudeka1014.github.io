@@ -16,7 +16,7 @@ timezone:
 
 title: JDK # the main title
 
-tagline: JDK's PixelArt & BlockBench Blog # it will display as the sub-title
+tagline: JDK's PixelArt & BlockBench # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Typical description
