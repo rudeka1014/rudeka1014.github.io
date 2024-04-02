@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7b48ad417cb8837f",
+        "id": "b05d44342e01bdbc",
         "type": "tabs",
         "children": [
           {
-            "id": "1d832ff2c79d0fd6",
+            "id": "3336038e0ba2bbec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,16 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d832ff2c79d0fd6",
+  "active": "3336038e0ba2bbec",
   "lastOpenFiles": [
-    "2024-03-31-BlockBench z.md",
-    "MD.md",
+    "images/pasted.png.png",
+    "images/pasted.png",
     "2024-03-31-BlockBench 01.md",
+    "templates/template.md",
+    "images/Pasted.md",
+    "2024-03-31-BlockBench 02.md",
+    "2024-03-31-BlockBench z.md",
+    "2024-04-01-Oraxen 01.md",
+    "MD.md",
     "().md",
     "discord.blockbench.net.md",
-    "2024-03-31-BlockBench 02.md",
     "2024-03-31-Blog.md",
-    "templates/template.md",
     "2024-03-31-ResourcePack 01.md",
     "2024-03-31-BlockBench.md",
     "templates",
